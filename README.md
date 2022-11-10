@@ -1,2 +1,2 @@
 # socchoice
-Helper functions computational social choice research
+Helper functions for computational social choice research.
