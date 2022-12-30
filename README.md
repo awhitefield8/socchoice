@@ -1,2 +1,2 @@
 # socchoice
-Helper functions for computational social choice research.
+Helper functions for aggregating and plotting ordinal preferences
